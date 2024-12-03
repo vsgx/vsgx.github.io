@@ -6,8 +6,8 @@ The site is being developed as I learn front-end technologies step by step.
 ## Roadmap
 
 ### 1. Basic Structure
-- Set up the basic structure of the website. 
-- Create an `index.html` with basic content. 
+- Set up the basic structure of the website. +
+- Create an `index.html` with basic content. +
 - Add a simple navigation bar.
 
 ### 2. Layout and Styling
