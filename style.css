@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url('assets/background.png') no-repeat center center fixed; 
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+.search-container {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+
+input {
+  width: 400px;
+  padding: 12px;
+  font-size: 18px;
+  border: none;
+  border-radius: 25px;
+  outline: none;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+
+button {
+  padding: 12px 20px;
+  font-size: 18px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  background: white;
+}
